@@ -10,7 +10,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 console.clear();
 
-var TWOPI = Math.PI * 2;
+var TOUPIE = Math.PI * 2;
 
 function distance(x1, y1, x2, y2) {
 	var dx = x1 - x2;
